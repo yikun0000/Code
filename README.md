@@ -4,4 +4,4 @@
 
 复现说明：数据集来源：https://www.kaggle.com/competitions/cat-in-the-dat-ii/data；
 使用包的版本：最新版本的numpy，pandas，matplotlib，pytorch；
-复现步骤：将数据集和4个ipynb文件放在同一个文件夹下面，先运行数据分析文件，之后就可以运行其他三个ipynb文件。
+复现步骤：将数据集解压得到的csv文件和4个ipynb文件放在同一个文件夹下面，先运行数据分析文件，之后就可以运行其他三个ipynb文件。
